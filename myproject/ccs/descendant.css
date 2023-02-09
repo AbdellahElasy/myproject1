@@ -1,0 +1,11 @@
+ّّ*{
+background-color: black;
+}
+div >ul{
+    border: 1px solid green;
+
+}
+div+p{
+    color: red;
+    text-align: center;
+}

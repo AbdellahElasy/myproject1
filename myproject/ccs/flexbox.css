@@ -1,0 +1,19 @@
+.flex-container{
+    display: flex;
+    background-color: blueviolet;
+    gap: 2px; ;
+    flex-direction: rew;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    height: 6px;;
+}
+.box{
+margin: 100px;
+padding: 200px;
+background-color: rgb(223, 212, 212);
+margin: 8px;
+
+
+
+}

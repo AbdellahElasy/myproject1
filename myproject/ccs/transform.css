@@ -1,0 +1,35 @@
+div{
+    background-color: aqua;
+    width: 159px;
+    height: 250px;
+    transform: translate(150px,150px);
+    transform:rotate(30deg) ;
+    transform:scale(1,5,1,5); 
+    transform:skew(-20deg) ;
+    transform: rotateZ(30deg);
+    transition: width 2s ,  height 2s , transform 200ms ;
+
+    transition-timing-function: linear;
+    transition-delay: 1s;
+
+width: 100px;
+height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-direction: 4s;
+
+    
+    
+}
+
+div:hover{
+width: 300px; 
+height:50px ;
+transform: rotate(180deg);
+
+}
+@keyframes exemple {
+    from{background-color: red;}
+    to{background-color:yellow;}
+    
+}

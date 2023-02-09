@@ -1,0 +1,25 @@
+.container{
+
+display: grid;
+grid-template-columns: auto auto auto auto auto auto;
+grid-template-rows: auto auto auto auto auto auto;
+gap: 4Px;
+
+
+background-color: brown ;
+margin: 1Px;
+padding: 4px;
+
+}
+.grid{
+
+
+    background-color: aqua;
+    font-size: 40px;
+    border:  1px solid ;
+
+}
+.div8{
+    grid-area: 2//1/4;
+}
+

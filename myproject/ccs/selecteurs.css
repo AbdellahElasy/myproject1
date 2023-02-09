@@ -1,0 +1,48 @@
+p,div{
+    color: blue;
+}
+div{
+    text-align: center;
+}
+.contaier{
+    color: brown;
+
+}
+#p2{
+    color: blueviolet;
+
+}
+.con{
+    color: aquamarine;
+
+}
+.con1{
+    color: red;
+}
+
+
+
+a:link{
+    color: aqua;
+    text-align: none;
+
+}
+a:hover{
+    background-color: rgb(0, 255, 191);
+    color: yellow;
+    border: 1px solid green;
+
+}
+a:visited{
+    color: black;
+
+}
+a:active{
+    color: blue;
+
+}
+input[type="email"]:focus{
+    color: red;
+    background-color: blueviolet;
+    border: dashed 1px solid;
+}

@@ -1,0 +1,10 @@
+div{
+    background-image: linear-gradient(red,yellow,blue);
+}
+p{
+    background-image: linear-gradient(to right ,yellow ,blue);
+}
+h1{background-image: radial-gradient(green , red );} 
+h2{
+    background-position: conic-gradient(pink 40deg ,gry 20deg ,gold);
+}

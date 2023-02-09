@@ -1,0 +1,32 @@
+
+
+
+
+
+body{
+
+background-image:url('fifa.png')
+,url(disir.jpg)
+
+
+
+
+}
+
+
+
+
+img{
+    width: 500px;
+    height: 200px;
+}
+img.hover{
+    opacity: 20%;
+
+
+}
+p{
+    text-align: right;
+    border: 10px solid transparent;
+    border-image: url(images/ocean1.jpg) 20 round;
+}

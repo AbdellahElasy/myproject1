@@ -1,0 +1,15 @@
+.container{position: relative;}
+.topleft{position: absolute;top: 8px ;right:  16px ; font-size:18px;}
+.topright{position: absolute;top: 8px ;right:  16px ; font-size:18px;}
+.topright{position: absolute;top: 8px ;left:  16px ; font-size:18px;}
+.bottomleft{position: absolute;top: 8px ;right:  16px ; font-size:18px;}
+.bottomright{position: absolute;top: 8px ;right:  16px ; font-size:18px;}
+
+
+
+img{
+    width: absolute;
+    height: px;
+    opacity: 0px;
+    
+}
